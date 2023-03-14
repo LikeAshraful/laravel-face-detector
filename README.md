@@ -4,9 +4,8 @@ A Laravel Package for Face Detection and Cropping in Images.
 <strong>Installation</strong>
 
 <ol>
-  <li>Edit the composer.json add to the require array & run composer update<br>
-      <pre><code> "softon/laravel-face-detect": "dev-master" </code></pre>
-      <pre><code> composer update </code></pre>
+  <li>
+      <pre><code> composer require likeashraful/laravel-face-detector </code></pre>
   </li>
   <li>Add the service provider to the config/app.php file in Laravel<br>
       <pre><code> 'Softon\LaravelFaceDetect\FaceDetectServiceProvider', </code></pre>
@@ -17,8 +16,7 @@ A Laravel Package for Face Detection and Cropping in Images.
       
   </li>
   <li>Publish the config file by running <br>
-      <pre><code> php artisan vendor:publish </code></pre>
-      
+      <pre><code> php artisan vendor:publish </code></pre>      
   </li>
 </ol>
 
