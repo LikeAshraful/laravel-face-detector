@@ -1,5 +1,5 @@
 {
-    "name": "softon/laravel-face-detect",
+    "name": "likeashraful/laravel-face-detector",
     "description": "A Laravel Package for Face Detection and Cropping in Images.",
     "license": "MIT",
     "keywords": [
@@ -8,8 +8,8 @@
     ],
     "authors": [
         {
-            "name": "Shiburaj",
-            "email": "powerupneo@gmail.com"
+            "name": "Likeashraful",
+            "email": "maipalash35@gmail.com"
         }
     ],
     "require": {
